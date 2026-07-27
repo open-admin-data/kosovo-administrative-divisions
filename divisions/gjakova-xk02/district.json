@@ -1,0 +1,33 @@
+{
+  "id": "XK02",
+  "level": 1,
+  "level_name": {
+    "local": "Distrikti",
+    "en": "District"
+  },
+  "name": {
+    "local": "Gjakova",
+    "en": "Gjakova",
+    "slug": "gjakova-xk02"
+  },
+  "code": {
+    "id": "XK02",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "42.412",
+    "lon": "20.461"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/xk/districts/gjakova-xk02/",
+    "api": "https://openadmindata.org/api/xk/"
+  }
+}

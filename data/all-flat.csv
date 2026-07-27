@@ -1,0 +1,9 @@
+# Data from Open Admin Data (https://openadmindata.org/xk/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/kosovo-administrative-divisions
+id,level,level_name.local,level_name.en,name.local,name.en,name.slug,code.id,code.iso,parent.id,parent.name.local,parent.name.en,children_count.district,children_count.municipality,zip_codes,geo.lat,geo.lon,source_url
+XK01,1,Distrikti,District,Peja-Pec,Peja-Pec,peja-pec-xk01,XK01,,,,,,3,,42.696,20.43,https://openadmindata.org/xk/districts/peja-pec-xk01/
+XK02,1,Distrikti,District,Gjakova,Gjakova,gjakova-xk02,XK02,,,,,,4,,42.412,20.461,https://openadmindata.org/xk/districts/gjakova-xk02/
+XK03,1,Distrikti,District,Prizren,Prizren,prizren-xk03,XK03,,,,,,5,,42.18,20.7,https://openadmindata.org/xk/districts/prizren-xk03/
+XK04,1,Distrikti,District,Ferizaj,Ferizaj,ferizaj-xk04,XK04,,,,,,5,,42.325,21.109,https://openadmindata.org/xk/districts/ferizaj-xk04/
+XK05,1,Distrikti,District,Gjilan,Gjilan,gjilan-xk05,XK05,,,,,,7,,42.499,21.494,https://openadmindata.org/xk/districts/gjilan-xk05/
+XK06,1,Distrikti,District,Pristina,Pristina,pristina-xk06,XK06,,,,,,7,,42.704,21.231,https://openadmindata.org/xk/districts/pristina-xk06/
+XK07,1,Distrikti,District,Mitrovica,Mitrovica,mitrovica-xk07,XK07,,,,,,7,,42.924,20.842,https://openadmindata.org/xk/districts/mitrovica-xk07/

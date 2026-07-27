@@ -1,0 +1,45 @@
+{
+  "id": "XK02M04",
+  "level": 2,
+  "level_name": {
+    "local": "Komuna",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "DeCan",
+    "en": "DeCan",
+    "slug": "decan-xk02m04"
+  },
+  "code": {
+    "id": "XK02M04",
+    "iso": null
+  },
+  "parent": {
+    "id": "XK02",
+    "level": 1,
+    "name": {
+      "local": "Gjakova",
+      "en": "Gjakova",
+      "slug": "gjakova-xk02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "XK02",
+      "level": 1,
+      "name": {
+        "local": "Gjakova",
+        "en": "Gjakova",
+        "slug": "gjakova-xk02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "42.559",
+    "lon": "20.233"
+  },
+  "metadata": {},
+  "source": {}
+}

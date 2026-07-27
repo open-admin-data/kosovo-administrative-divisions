@@ -1,0 +1,34 @@
+# Ferizaj — Kosovo Administrative Divisions
+
+> 5 municipalitys
+> Code: XK04
+> Coordinates: 42.325, 21.109
+> Last updated: 2026-07-27. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Ferizaj
+
+Code: XK04M04, Coordinates: 42.371, 21.148
+
+
+### Hani I Elezit
+
+Code: XK04M01, Coordinates: 42.135, 21.265
+
+
+### KaCanik
+
+Code: XK04M03, Coordinates: 42.239, 21.222
+
+
+### Shte Rpce
+
+Code: XK04M02, Coordinates: 42.228, 21.022
+
+
+### Shtime
+
+Code: XK04M05, Coordinates: 42.43, 21.025
+
+

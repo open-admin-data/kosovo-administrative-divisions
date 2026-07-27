@@ -1,0 +1,45 @@
+{
+  "id": "XK06M01",
+  "level": 2,
+  "level_name": {
+    "local": "Komuna",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "GraCanica",
+    "en": "GraCanica",
+    "slug": "gracanica-xk06m01"
+  },
+  "code": {
+    "id": "XK06M01",
+    "iso": null
+  },
+  "parent": {
+    "id": "XK06",
+    "level": 1,
+    "name": {
+      "local": "Pristina",
+      "en": "Pristina",
+      "slug": "pristina-xk06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "XK06",
+      "level": 1,
+      "name": {
+        "local": "Pristina",
+        "en": "Pristina",
+        "slug": "pristina-xk06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "42.569",
+    "lon": "21.177"
+  },
+  "metadata": {},
+  "source": {}
+}

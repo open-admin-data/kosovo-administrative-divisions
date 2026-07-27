@@ -1,0 +1,25 @@
+# Kosovo Administrative Divisions — Full Reference
+
+> Last updated: 2026-07-27. License: CC-BY-4.0.
+
+## Per-District Data Files
+
+- [Peja-Pec](https://github.com/open-admin-data/kosovo-administrative-divisions/blob/main/docs/llms-full/peja-pec-xk01.txt) — 3 municipalitys
+- [Gjakova](https://github.com/open-admin-data/kosovo-administrative-divisions/blob/main/docs/llms-full/gjakova-xk02.txt) — 4 municipalitys
+- [Prizren](https://github.com/open-admin-data/kosovo-administrative-divisions/blob/main/docs/llms-full/prizren-xk03.txt) — 5 municipalitys
+- [Ferizaj](https://github.com/open-admin-data/kosovo-administrative-divisions/blob/main/docs/llms-full/ferizaj-xk04.txt) — 5 municipalitys
+- [Gjilan](https://github.com/open-admin-data/kosovo-administrative-divisions/blob/main/docs/llms-full/gjilan-xk05.txt) — 7 municipalitys
+- [Pristina](https://github.com/open-admin-data/kosovo-administrative-divisions/blob/main/docs/llms-full/pristina-xk06.txt) — 7 municipalitys
+- [Mitrovica](https://github.com/open-admin-data/kosovo-administrative-divisions/blob/main/docs/llms-full/mitrovica-xk07.txt) — 7 municipalitys
+
+## Summary
+
+| District | Municipalitys | 
+|---|---|
+| Peja-Pec | 3 | 
+| Gjakova | 4 | 
+| Prizren | 5 | 
+| Ferizaj | 5 | 
+| Gjilan | 7 | 
+| Pristina | 7 | 
+| Mitrovica | 7 | 

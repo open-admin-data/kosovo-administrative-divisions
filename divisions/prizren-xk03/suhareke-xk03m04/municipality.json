@@ -1,0 +1,45 @@
+{
+  "id": "XK03M04",
+  "level": 2,
+  "level_name": {
+    "local": "Komuna",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Suhareke",
+    "en": "Suhareke",
+    "slug": "suhareke-xk03m04"
+  },
+  "code": {
+    "id": "XK03M04",
+    "iso": null
+  },
+  "parent": {
+    "id": "XK03",
+    "level": 1,
+    "name": {
+      "local": "Prizren",
+      "en": "Prizren",
+      "slug": "prizren-xk03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "XK03",
+      "level": 1,
+      "name": {
+        "local": "Prizren",
+        "en": "Prizren",
+        "slug": "prizren-xk03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "42.354",
+    "lon": "20.855"
+  },
+  "metadata": {},
+  "source": {}
+}

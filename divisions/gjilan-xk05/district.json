@@ -1,0 +1,33 @@
+{
+  "id": "XK05",
+  "level": 1,
+  "level_name": {
+    "local": "Distrikti",
+    "en": "District"
+  },
+  "name": {
+    "local": "Gjilan",
+    "en": "Gjilan",
+    "slug": "gjilan-xk05"
+  },
+  "code": {
+    "id": "XK05",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "42.499",
+    "lon": "21.494"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/xk/districts/gjilan-xk05/",
+    "api": "https://openadmindata.org/api/xk/"
+  }
+}

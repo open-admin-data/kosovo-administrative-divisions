@@ -1,0 +1,45 @@
+{
+  "id": "XK01M01",
+  "level": 2,
+  "level_name": {
+    "local": "Komuna",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Kline",
+    "en": "Kline",
+    "slug": "kline-xk01m01"
+  },
+  "code": {
+    "id": "XK01M01",
+    "iso": null
+  },
+  "parent": {
+    "id": "XK01",
+    "level": 1,
+    "name": {
+      "local": "Peja-Pec",
+      "en": "Peja-Pec",
+      "slug": "peja-pec-xk01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "XK01",
+      "level": 1,
+      "name": {
+        "local": "Peja-Pec",
+        "en": "Peja-Pec",
+        "slug": "peja-pec-xk01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "42.611",
+    "lon": "20.598"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "XK05M06",
+  "level": 2,
+  "level_name": {
+    "local": "Komuna",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Novo Berdo",
+    "en": "Novo Berdo",
+    "slug": "novo-berdo-xk05m06"
+  },
+  "code": {
+    "id": "XK05M06",
+    "iso": null
+  },
+  "parent": {
+    "id": "XK05",
+    "level": 1,
+    "name": {
+      "local": "Gjilan",
+      "en": "Gjilan",
+      "slug": "gjilan-xk05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "XK05",
+      "level": 1,
+      "name": {
+        "local": "Gjilan",
+        "en": "Gjilan",
+        "slug": "gjilan-xk05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "42.563",
+    "lon": "21.439"
+  },
+  "metadata": {},
+  "source": {}
+}

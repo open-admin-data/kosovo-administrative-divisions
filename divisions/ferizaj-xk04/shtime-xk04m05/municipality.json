@@ -1,0 +1,45 @@
+{
+  "id": "XK04M05",
+  "level": 2,
+  "level_name": {
+    "local": "Komuna",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Shtime",
+    "en": "Shtime",
+    "slug": "shtime-xk04m05"
+  },
+  "code": {
+    "id": "XK04M05",
+    "iso": null
+  },
+  "parent": {
+    "id": "XK04",
+    "level": 1,
+    "name": {
+      "local": "Ferizaj",
+      "en": "Ferizaj",
+      "slug": "ferizaj-xk04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "XK04",
+      "level": 1,
+      "name": {
+        "local": "Ferizaj",
+        "en": "Ferizaj",
+        "slug": "ferizaj-xk04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "42.43",
+    "lon": "21.025"
+  },
+  "metadata": {},
+  "source": {}
+}

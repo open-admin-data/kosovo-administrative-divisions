@@ -1,0 +1,317 @@
+[
+  {
+    "id": "XK07M07",
+    "level": 2,
+    "level_name": {
+      "local": "Komuna",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Fushe Kosova",
+      "en": "Fushe Kosova",
+      "slug": "fushe-kosova-xk07m07"
+    },
+    "code": {
+      "id": "XK07M07",
+      "iso": null
+    },
+    "parent": {
+      "id": "XK07",
+      "level": 1,
+      "name": {
+        "local": "Mitrovica",
+        "en": "Mitrovica",
+        "slug": "mitrovica-xk07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XK07",
+        "level": 1,
+        "name": {
+          "local": "Mitrovica",
+          "en": "Mitrovica",
+          "slug": "mitrovica-xk07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.892",
+      "lon": "20.834"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "XK07M05",
+    "level": 2,
+    "level_name": {
+      "local": "Komuna",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Leposaviq",
+      "en": "Leposaviq",
+      "slug": "leposaviq-xk07m05"
+    },
+    "code": {
+      "id": "XK07M05",
+      "iso": null
+    },
+    "parent": {
+      "id": "XK07",
+      "level": 1,
+      "name": {
+        "local": "Mitrovica",
+        "en": "Mitrovica",
+        "slug": "mitrovica-xk07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XK07",
+        "level": 1,
+        "name": {
+          "local": "Mitrovica",
+          "en": "Mitrovica",
+          "slug": "mitrovica-xk07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "43.122",
+      "lon": "20.774"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "XK07M06",
+    "level": 2,
+    "level_name": {
+      "local": "Komuna",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Mitrovice",
+      "en": "Mitrovice",
+      "slug": "mitrovice-xk07m06"
+    },
+    "code": {
+      "id": "XK07M06",
+      "iso": null
+    },
+    "parent": {
+      "id": "XK07",
+      "level": 1,
+      "name": {
+        "local": "Mitrovica",
+        "en": "Mitrovica",
+        "slug": "mitrovica-xk07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XK07",
+        "level": 1,
+        "name": {
+          "local": "Mitrovica",
+          "en": "Mitrovica",
+          "slug": "mitrovica-xk07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.968",
+      "lon": "20.936"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "XK07M01",
+    "level": 2,
+    "level_name": {
+      "local": "Komuna",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Skenderaj",
+      "en": "Skenderaj",
+      "slug": "skenderaj-xk07m01"
+    },
+    "code": {
+      "id": "XK07M01",
+      "iso": null
+    },
+    "parent": {
+      "id": "XK07",
+      "level": 1,
+      "name": {
+        "local": "Mitrovica",
+        "en": "Mitrovica",
+        "slug": "mitrovica-xk07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XK07",
+        "level": 1,
+        "name": {
+          "local": "Mitrovica",
+          "en": "Mitrovica",
+          "slug": "mitrovica-xk07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.732",
+      "lon": "20.754"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "XK07M02",
+    "level": 2,
+    "level_name": {
+      "local": "Komuna",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Vushtrri",
+      "en": "Vushtrri",
+      "slug": "vushtrri-xk07m02"
+    },
+    "code": {
+      "id": "XK07M02",
+      "iso": null
+    },
+    "parent": {
+      "id": "XK07",
+      "level": 1,
+      "name": {
+        "local": "Mitrovica",
+        "en": "Mitrovica",
+        "slug": "mitrovica-xk07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XK07",
+        "level": 1,
+        "name": {
+          "local": "Mitrovica",
+          "en": "Mitrovica",
+          "slug": "mitrovica-xk07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.797",
+      "lon": "20.991"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "XK07M03",
+    "level": 2,
+    "level_name": {
+      "local": "Komuna",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Zubin Potok",
+      "en": "Zubin Potok",
+      "slug": "zubin-potok-xk07m03"
+    },
+    "code": {
+      "id": "XK07M03",
+      "iso": null
+    },
+    "parent": {
+      "id": "XK07",
+      "level": 1,
+      "name": {
+        "local": "Mitrovica",
+        "en": "Mitrovica",
+        "slug": "mitrovica-xk07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XK07",
+        "level": 1,
+        "name": {
+          "local": "Mitrovica",
+          "en": "Mitrovica",
+          "slug": "mitrovica-xk07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.938",
+      "lon": "20.653"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "XK07M04",
+    "level": 2,
+    "level_name": {
+      "local": "Komuna",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "ZveCan",
+      "en": "ZveCan",
+      "slug": "zvecan-xk07m04"
+    },
+    "code": {
+      "id": "XK07M04",
+      "iso": null
+    },
+    "parent": {
+      "id": "XK07",
+      "level": 1,
+      "name": {
+        "local": "Mitrovica",
+        "en": "Mitrovica",
+        "slug": "mitrovica-xk07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XK07",
+        "level": 1,
+        "name": {
+          "local": "Mitrovica",
+          "en": "Mitrovica",
+          "slug": "mitrovica-xk07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.963",
+      "lon": "20.79"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

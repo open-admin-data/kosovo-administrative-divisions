@@ -1,0 +1,34 @@
+# Prizren — Kosovo Administrative Divisions
+
+> 5 municipalitys
+> Code: XK03
+> Coordinates: 42.18, 20.7
+> Last updated: 2026-07-27. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Dragash
+
+Code: XK03M01, Coordinates: 42.024, 20.677
+
+
+### Malisheve
+
+Code: XK03M05, Coordinates: 42.496, 20.741
+
+
+### Mamusha
+
+Code: XK03M03, Coordinates: 42.325, 20.727
+
+
+### Prizren
+
+Code: XK03M02, Coordinates: 42.226, 20.719
+
+
+### Suhareke
+
+Code: XK03M04, Coordinates: 42.354, 20.855
+
+

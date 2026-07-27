@@ -1,0 +1,45 @@
+{
+  "id": "XK07M04",
+  "level": 2,
+  "level_name": {
+    "local": "Komuna",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "ZveCan",
+    "en": "ZveCan",
+    "slug": "zvecan-xk07m04"
+  },
+  "code": {
+    "id": "XK07M04",
+    "iso": null
+  },
+  "parent": {
+    "id": "XK07",
+    "level": 1,
+    "name": {
+      "local": "Mitrovica",
+      "en": "Mitrovica",
+      "slug": "mitrovica-xk07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "XK07",
+      "level": 1,
+      "name": {
+        "local": "Mitrovica",
+        "en": "Mitrovica",
+        "slug": "mitrovica-xk07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "42.963",
+    "lon": "20.79"
+  },
+  "metadata": {},
+  "source": {}
+}

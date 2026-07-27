@@ -1,0 +1,33 @@
+{
+  "id": "XK06",
+  "level": 1,
+  "level_name": {
+    "local": "Distrikti",
+    "en": "District"
+  },
+  "name": {
+    "local": "Pristina",
+    "en": "Pristina",
+    "slug": "pristina-xk06"
+  },
+  "code": {
+    "id": "XK06",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "42.704",
+    "lon": "21.231"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/xk/districts/pristina-xk06/",
+    "api": "https://openadmindata.org/api/xk/"
+  }
+}

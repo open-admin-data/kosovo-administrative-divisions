@@ -1,0 +1,182 @@
+[
+  {
+    "id": "XK02M04",
+    "level": 2,
+    "level_name": {
+      "local": "Komuna",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "DeCan",
+      "en": "DeCan",
+      "slug": "decan-xk02m04"
+    },
+    "code": {
+      "id": "XK02M04",
+      "iso": null
+    },
+    "parent": {
+      "id": "XK02",
+      "level": 1,
+      "name": {
+        "local": "Gjakova",
+        "en": "Gjakova",
+        "slug": "gjakova-xk02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XK02",
+        "level": 1,
+        "name": {
+          "local": "Gjakova",
+          "en": "Gjakova",
+          "slug": "gjakova-xk02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.559",
+      "lon": "20.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "XK02M03",
+    "level": 2,
+    "level_name": {
+      "local": "Komuna",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Gjakove",
+      "en": "Gjakove",
+      "slug": "gjakove-xk02m03"
+    },
+    "code": {
+      "id": "XK02M03",
+      "iso": null
+    },
+    "parent": {
+      "id": "XK02",
+      "level": 1,
+      "name": {
+        "local": "Gjakova",
+        "en": "Gjakova",
+        "slug": "gjakova-xk02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XK02",
+        "level": 1,
+        "name": {
+          "local": "Gjakova",
+          "en": "Gjakova",
+          "slug": "gjakova-xk02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.386",
+      "lon": "20.419"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "XK02M02",
+    "level": 2,
+    "level_name": {
+      "local": "Komuna",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Junik",
+      "en": "Junik",
+      "slug": "junik-xk02m02"
+    },
+    "code": {
+      "id": "XK02M02",
+      "iso": null
+    },
+    "parent": {
+      "id": "XK02",
+      "level": 1,
+      "name": {
+        "local": "Gjakova",
+        "en": "Gjakova",
+        "slug": "gjakova-xk02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XK02",
+        "level": 1,
+        "name": {
+          "local": "Gjakova",
+          "en": "Gjakova",
+          "slug": "gjakova-xk02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.497",
+      "lon": "20.23"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "XK02M01",
+    "level": 2,
+    "level_name": {
+      "local": "Komuna",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Rahovec",
+      "en": "Rahovec",
+      "slug": "rahovec-xk02m01"
+    },
+    "code": {
+      "id": "XK02M01",
+      "iso": null
+    },
+    "parent": {
+      "id": "XK02",
+      "level": 1,
+      "name": {
+        "local": "Gjakova",
+        "en": "Gjakova",
+        "slug": "gjakova-xk02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XK02",
+        "level": 1,
+        "name": {
+          "local": "Gjakova",
+          "en": "Gjakova",
+          "slug": "gjakova-xk02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.405",
+      "lon": "20.61"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

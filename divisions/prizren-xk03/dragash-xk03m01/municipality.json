@@ -1,0 +1,45 @@
+{
+  "id": "XK03M01",
+  "level": 2,
+  "level_name": {
+    "local": "Komuna",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Dragash",
+    "en": "Dragash",
+    "slug": "dragash-xk03m01"
+  },
+  "code": {
+    "id": "XK03M01",
+    "iso": null
+  },
+  "parent": {
+    "id": "XK03",
+    "level": 1,
+    "name": {
+      "local": "Prizren",
+      "en": "Prizren",
+      "slug": "prizren-xk03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "XK03",
+      "level": 1,
+      "name": {
+        "local": "Prizren",
+        "en": "Prizren",
+        "slug": "prizren-xk03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "42.024",
+    "lon": "20.677"
+  },
+  "metadata": {},
+  "source": {}
+}

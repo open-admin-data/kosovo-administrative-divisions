@@ -1,0 +1,45 @@
+{
+  "id": "XK07M05",
+  "level": 2,
+  "level_name": {
+    "local": "Komuna",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Leposaviq",
+    "en": "Leposaviq",
+    "slug": "leposaviq-xk07m05"
+  },
+  "code": {
+    "id": "XK07M05",
+    "iso": null
+  },
+  "parent": {
+    "id": "XK07",
+    "level": 1,
+    "name": {
+      "local": "Mitrovica",
+      "en": "Mitrovica",
+      "slug": "mitrovica-xk07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "XK07",
+      "level": 1,
+      "name": {
+        "local": "Mitrovica",
+        "en": "Mitrovica",
+        "slug": "mitrovica-xk07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "43.122",
+    "lon": "20.774"
+  },
+  "metadata": {},
+  "source": {}
+}

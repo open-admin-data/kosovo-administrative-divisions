@@ -1,0 +1,45 @@
+{
+  "id": "XK07M01",
+  "level": 2,
+  "level_name": {
+    "local": "Komuna",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Skenderaj",
+    "en": "Skenderaj",
+    "slug": "skenderaj-xk07m01"
+  },
+  "code": {
+    "id": "XK07M01",
+    "iso": null
+  },
+  "parent": {
+    "id": "XK07",
+    "level": 1,
+    "name": {
+      "local": "Mitrovica",
+      "en": "Mitrovica",
+      "slug": "mitrovica-xk07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "XK07",
+      "level": 1,
+      "name": {
+        "local": "Mitrovica",
+        "en": "Mitrovica",
+        "slug": "mitrovica-xk07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "42.732",
+    "lon": "20.754"
+  },
+  "metadata": {},
+  "source": {}
+}

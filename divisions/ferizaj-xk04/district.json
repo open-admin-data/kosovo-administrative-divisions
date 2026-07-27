@@ -1,0 +1,33 @@
+{
+  "id": "XK04",
+  "level": 1,
+  "level_name": {
+    "local": "Distrikti",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ferizaj",
+    "en": "Ferizaj",
+    "slug": "ferizaj-xk04"
+  },
+  "code": {
+    "id": "XK04",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "42.325",
+    "lon": "21.109"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/xk/districts/ferizaj-xk04/",
+    "api": "https://openadmindata.org/api/xk/"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "XK05M02",
+  "level": 2,
+  "level_name": {
+    "local": "Komuna",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Partesh",
+    "en": "Partesh",
+    "slug": "partesh-xk05m02"
+  },
+  "code": {
+    "id": "XK05M02",
+    "iso": null
+  },
+  "parent": {
+    "id": "XK05",
+    "level": 1,
+    "name": {
+      "local": "Gjilan",
+      "en": "Gjilan",
+      "slug": "gjilan-xk05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "XK05",
+      "level": 1,
+      "name": {
+        "local": "Gjilan",
+        "en": "Gjilan",
+        "slug": "gjilan-xk05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "42.409",
+    "lon": "21.504"
+  },
+  "metadata": {},
+  "source": {}
+}

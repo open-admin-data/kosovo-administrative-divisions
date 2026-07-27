@@ -1,0 +1,29 @@
+# Gjakova — Kosovo Administrative Divisions
+
+> 4 municipalitys
+> Code: XK02
+> Coordinates: 42.412, 20.461
+> Last updated: 2026-07-27. License: CC-BY-4.0.
+
+## Municipalitys
+
+### DeCan
+
+Code: XK02M04, Coordinates: 42.559, 20.233
+
+
+### Gjakove
+
+Code: XK02M03, Coordinates: 42.386, 20.419
+
+
+### Junik
+
+Code: XK02M02, Coordinates: 42.497, 20.23
+
+
+### Rahovec
+
+Code: XK02M01, Coordinates: 42.405, 20.61
+
+

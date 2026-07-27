@@ -1,0 +1,45 @@
+{
+  "id": "XK07M02",
+  "level": 2,
+  "level_name": {
+    "local": "Komuna",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Vushtrri",
+    "en": "Vushtrri",
+    "slug": "vushtrri-xk07m02"
+  },
+  "code": {
+    "id": "XK07M02",
+    "iso": null
+  },
+  "parent": {
+    "id": "XK07",
+    "level": 1,
+    "name": {
+      "local": "Mitrovica",
+      "en": "Mitrovica",
+      "slug": "mitrovica-xk07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "XK07",
+      "level": 1,
+      "name": {
+        "local": "Mitrovica",
+        "en": "Mitrovica",
+        "slug": "mitrovica-xk07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "42.797",
+    "lon": "20.991"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,24 @@
+# Peja-Pec — Kosovo Administrative Divisions
+
+> 3 municipalitys
+> Code: XK01
+> Coordinates: 42.696, 20.43
+> Last updated: 2026-07-27. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Istog
+
+Code: XK01M03, Coordinates: 42.779, 20.514
+
+
+### Kline
+
+Code: XK01M01, Coordinates: 42.611, 20.598
+
+
+### Peje
+
+Code: XK01M02, Coordinates: 42.688, 20.28
+
+

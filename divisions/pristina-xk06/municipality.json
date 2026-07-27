@@ -1,0 +1,317 @@
+[
+  {
+    "id": "XK06M02",
+    "level": 2,
+    "level_name": {
+      "local": "Komuna",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Fushe Kosovo",
+      "en": "Fushe Kosovo",
+      "slug": "fushe-kosovo-xk06m02"
+    },
+    "code": {
+      "id": "XK06M02",
+      "iso": null
+    },
+    "parent": {
+      "id": "XK06",
+      "level": 1,
+      "name": {
+        "local": "Pristina",
+        "en": "Pristina",
+        "slug": "pristina-xk06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XK06",
+        "level": 1,
+        "name": {
+          "local": "Pristina",
+          "en": "Pristina",
+          "slug": "pristina-xk06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.619",
+      "lon": "21.034"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "XK06M03",
+    "level": 2,
+    "level_name": {
+      "local": "Komuna",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Gllogovc",
+      "en": "Gllogovc",
+      "slug": "gllogovc-xk06m03"
+    },
+    "code": {
+      "id": "XK06M03",
+      "iso": null
+    },
+    "parent": {
+      "id": "XK06",
+      "level": 1,
+      "name": {
+        "local": "Pristina",
+        "en": "Pristina",
+        "slug": "pristina-xk06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XK06",
+        "level": 1,
+        "name": {
+          "local": "Pristina",
+          "en": "Pristina",
+          "slug": "pristina-xk06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.614",
+      "lon": "20.881"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "XK06M01",
+    "level": 2,
+    "level_name": {
+      "local": "Komuna",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "GraCanica",
+      "en": "GraCanica",
+      "slug": "gracanica-xk06m01"
+    },
+    "code": {
+      "id": "XK06M01",
+      "iso": null
+    },
+    "parent": {
+      "id": "XK06",
+      "level": 1,
+      "name": {
+        "local": "Pristina",
+        "en": "Pristina",
+        "slug": "pristina-xk06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XK06",
+        "level": 1,
+        "name": {
+          "local": "Pristina",
+          "en": "Pristina",
+          "slug": "pristina-xk06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.569",
+      "lon": "21.177"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "XK06M07",
+    "level": 2,
+    "level_name": {
+      "local": "Komuna",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Lipjan",
+      "en": "Lipjan",
+      "slug": "lipjan-xk06m07"
+    },
+    "code": {
+      "id": "XK06M07",
+      "iso": null
+    },
+    "parent": {
+      "id": "XK06",
+      "level": 1,
+      "name": {
+        "local": "Pristina",
+        "en": "Pristina",
+        "slug": "pristina-xk06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XK06",
+        "level": 1,
+        "name": {
+          "local": "Pristina",
+          "en": "Pristina",
+          "slug": "pristina-xk06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.528",
+      "lon": "21.017"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "XK06M04",
+    "level": 2,
+    "level_name": {
+      "local": "Komuna",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Obiliq",
+      "en": "Obiliq",
+      "slug": "obiliq-xk06m04"
+    },
+    "code": {
+      "id": "XK06M04",
+      "iso": null
+    },
+    "parent": {
+      "id": "XK06",
+      "level": 1,
+      "name": {
+        "local": "Pristina",
+        "en": "Pristina",
+        "slug": "pristina-xk06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XK06",
+        "level": 1,
+        "name": {
+          "local": "Pristina",
+          "en": "Pristina",
+          "slug": "pristina-xk06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.693",
+      "lon": "21.073"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "XK06M06",
+    "level": 2,
+    "level_name": {
+      "local": "Komuna",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Podujeve",
+      "en": "Podujeve",
+      "slug": "podujeve-xk06m06"
+    },
+    "code": {
+      "id": "XK06M06",
+      "iso": null
+    },
+    "parent": {
+      "id": "XK06",
+      "level": 1,
+      "name": {
+        "local": "Pristina",
+        "en": "Pristina",
+        "slug": "pristina-xk06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XK06",
+        "level": 1,
+        "name": {
+          "local": "Pristina",
+          "en": "Pristina",
+          "slug": "pristina-xk06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.9",
+      "lon": "21.164"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "XK06M05",
+    "level": 2,
+    "level_name": {
+      "local": "Komuna",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Prishtine",
+      "en": "Prishtine",
+      "slug": "prishtine-xk06m05"
+    },
+    "code": {
+      "id": "XK06M05",
+      "iso": null
+    },
+    "parent": {
+      "id": "XK06",
+      "level": 1,
+      "name": {
+        "local": "Pristina",
+        "en": "Pristina",
+        "slug": "pristina-xk06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XK06",
+        "level": 1,
+        "name": {
+          "local": "Pristina",
+          "en": "Pristina",
+          "slug": "pristina-xk06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.71",
+      "lon": "21.305"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

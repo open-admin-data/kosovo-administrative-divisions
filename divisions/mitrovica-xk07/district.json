@@ -1,0 +1,33 @@
+{
+  "id": "XK07",
+  "level": 1,
+  "level_name": {
+    "local": "Distrikti",
+    "en": "District"
+  },
+  "name": {
+    "local": "Mitrovica",
+    "en": "Mitrovica",
+    "slug": "mitrovica-xk07"
+  },
+  "code": {
+    "id": "XK07",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "42.924",
+    "lon": "20.842"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/xk/districts/mitrovica-xk07/",
+    "api": "https://openadmindata.org/api/xk/"
+  }
+}

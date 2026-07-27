@@ -1,0 +1,233 @@
+[
+  {
+    "id": "XK01",
+    "level": 1,
+    "level_name": {
+      "local": "Distrikti",
+      "en": "District"
+    },
+    "name": {
+      "local": "Peja-Pec",
+      "en": "Peja-Pec",
+      "slug": "peja-pec-xk01"
+    },
+    "code": {
+      "id": "XK01",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "municipality": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.696",
+      "lon": "20.43"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/xk/districts/peja-pec-xk01/",
+      "api": "https://openadmindata.org/api/xk/"
+    }
+  },
+  {
+    "id": "XK02",
+    "level": 1,
+    "level_name": {
+      "local": "Distrikti",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gjakova",
+      "en": "Gjakova",
+      "slug": "gjakova-xk02"
+    },
+    "code": {
+      "id": "XK02",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "municipality": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.412",
+      "lon": "20.461"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/xk/districts/gjakova-xk02/",
+      "api": "https://openadmindata.org/api/xk/"
+    }
+  },
+  {
+    "id": "XK03",
+    "level": 1,
+    "level_name": {
+      "local": "Distrikti",
+      "en": "District"
+    },
+    "name": {
+      "local": "Prizren",
+      "en": "Prizren",
+      "slug": "prizren-xk03"
+    },
+    "code": {
+      "id": "XK03",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "municipality": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.18",
+      "lon": "20.7"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/xk/districts/prizren-xk03/",
+      "api": "https://openadmindata.org/api/xk/"
+    }
+  },
+  {
+    "id": "XK04",
+    "level": 1,
+    "level_name": {
+      "local": "Distrikti",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ferizaj",
+      "en": "Ferizaj",
+      "slug": "ferizaj-xk04"
+    },
+    "code": {
+      "id": "XK04",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "municipality": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.325",
+      "lon": "21.109"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/xk/districts/ferizaj-xk04/",
+      "api": "https://openadmindata.org/api/xk/"
+    }
+  },
+  {
+    "id": "XK05",
+    "level": 1,
+    "level_name": {
+      "local": "Distrikti",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gjilan",
+      "en": "Gjilan",
+      "slug": "gjilan-xk05"
+    },
+    "code": {
+      "id": "XK05",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "municipality": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.499",
+      "lon": "21.494"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/xk/districts/gjilan-xk05/",
+      "api": "https://openadmindata.org/api/xk/"
+    }
+  },
+  {
+    "id": "XK06",
+    "level": 1,
+    "level_name": {
+      "local": "Distrikti",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pristina",
+      "en": "Pristina",
+      "slug": "pristina-xk06"
+    },
+    "code": {
+      "id": "XK06",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "municipality": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.704",
+      "lon": "21.231"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/xk/districts/pristina-xk06/",
+      "api": "https://openadmindata.org/api/xk/"
+    }
+  },
+  {
+    "id": "XK07",
+    "level": 1,
+    "level_name": {
+      "local": "Distrikti",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mitrovica",
+      "en": "Mitrovica",
+      "slug": "mitrovica-xk07"
+    },
+    "code": {
+      "id": "XK07",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "municipality": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.924",
+      "lon": "20.842"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/xk/districts/mitrovica-xk07/",
+      "api": "https://openadmindata.org/api/xk/"
+    }
+  }
+]

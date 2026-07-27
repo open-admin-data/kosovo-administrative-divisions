@@ -1,0 +1,1712 @@
+[
+  {
+    "id": "XK03M01",
+    "level": 2,
+    "level_name": {
+      "local": "Komuna",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Dragash",
+      "en": "Dragash",
+      "slug": "dragash-xk03m01"
+    },
+    "code": {
+      "id": "XK03M01",
+      "iso": null
+    },
+    "parent": {
+      "id": "XK03",
+      "level": 1,
+      "name": {
+        "local": "Prizren",
+        "en": "Prizren",
+        "slug": "prizren-xk03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XK03",
+        "level": 1,
+        "name": {
+          "local": "Prizren",
+          "en": "Prizren",
+          "slug": "prizren-xk03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.024",
+      "lon": "20.677"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "XK04M01",
+    "level": 2,
+    "level_name": {
+      "local": "Komuna",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Hani I Elezit",
+      "en": "Hani I Elezit",
+      "slug": "hani-i-elezit-xk04m01"
+    },
+    "code": {
+      "id": "XK04M01",
+      "iso": null
+    },
+    "parent": {
+      "id": "XK04",
+      "level": 1,
+      "name": {
+        "local": "Ferizaj",
+        "en": "Ferizaj",
+        "slug": "ferizaj-xk04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XK04",
+        "level": 1,
+        "name": {
+          "local": "Ferizaj",
+          "en": "Ferizaj",
+          "slug": "ferizaj-xk04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.135",
+      "lon": "21.265"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "XK03M02",
+    "level": 2,
+    "level_name": {
+      "local": "Komuna",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Prizren",
+      "en": "Prizren",
+      "slug": "prizren-xk03m02"
+    },
+    "code": {
+      "id": "XK03M02",
+      "iso": null
+    },
+    "parent": {
+      "id": "XK03",
+      "level": 1,
+      "name": {
+        "local": "Prizren",
+        "en": "Prizren",
+        "slug": "prizren-xk03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XK03",
+        "level": 1,
+        "name": {
+          "local": "Prizren",
+          "en": "Prizren",
+          "slug": "prizren-xk03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.226",
+      "lon": "20.719"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "XK03M03",
+    "level": 2,
+    "level_name": {
+      "local": "Komuna",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Mamusha",
+      "en": "Mamusha",
+      "slug": "mamusha-xk03m03"
+    },
+    "code": {
+      "id": "XK03M03",
+      "iso": null
+    },
+    "parent": {
+      "id": "XK03",
+      "level": 1,
+      "name": {
+        "local": "Prizren",
+        "en": "Prizren",
+        "slug": "prizren-xk03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XK03",
+        "level": 1,
+        "name": {
+          "local": "Prizren",
+          "en": "Prizren",
+          "slug": "prizren-xk03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.325",
+      "lon": "20.727"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "XK04M02",
+    "level": 2,
+    "level_name": {
+      "local": "Komuna",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Shte Rpce",
+      "en": "Shte Rpce",
+      "slug": "shte-rpce-xk04m02"
+    },
+    "code": {
+      "id": "XK04M02",
+      "iso": null
+    },
+    "parent": {
+      "id": "XK04",
+      "level": 1,
+      "name": {
+        "local": "Ferizaj",
+        "en": "Ferizaj",
+        "slug": "ferizaj-xk04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XK04",
+        "level": 1,
+        "name": {
+          "local": "Ferizaj",
+          "en": "Ferizaj",
+          "slug": "ferizaj-xk04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.228",
+      "lon": "21.022"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "XK04M03",
+    "level": 2,
+    "level_name": {
+      "local": "Komuna",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "KaCanik",
+      "en": "KaCanik",
+      "slug": "kacanik-xk04m03"
+    },
+    "code": {
+      "id": "XK04M03",
+      "iso": null
+    },
+    "parent": {
+      "id": "XK04",
+      "level": 1,
+      "name": {
+        "local": "Ferizaj",
+        "en": "Ferizaj",
+        "slug": "ferizaj-xk04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XK04",
+        "level": 1,
+        "name": {
+          "local": "Ferizaj",
+          "en": "Ferizaj",
+          "slug": "ferizaj-xk04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.239",
+      "lon": "21.222"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "XK05M01",
+    "level": 2,
+    "level_name": {
+      "local": "Komuna",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Kllokot",
+      "en": "Kllokot",
+      "slug": "kllokot-xk05m01"
+    },
+    "code": {
+      "id": "XK05M01",
+      "iso": null
+    },
+    "parent": {
+      "id": "XK05",
+      "level": 1,
+      "name": {
+        "local": "Gjilan",
+        "en": "Gjilan",
+        "slug": "gjilan-xk05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XK05",
+        "level": 1,
+        "name": {
+          "local": "Gjilan",
+          "en": "Gjilan",
+          "slug": "gjilan-xk05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.341",
+      "lon": "21.387"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "XK02M01",
+    "level": 2,
+    "level_name": {
+      "local": "Komuna",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Rahovec",
+      "en": "Rahovec",
+      "slug": "rahovec-xk02m01"
+    },
+    "code": {
+      "id": "XK02M01",
+      "iso": null
+    },
+    "parent": {
+      "id": "XK02",
+      "level": 1,
+      "name": {
+        "local": "Gjakova",
+        "en": "Gjakova",
+        "slug": "gjakova-xk02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XK02",
+        "level": 1,
+        "name": {
+          "local": "Gjakova",
+          "en": "Gjakova",
+          "slug": "gjakova-xk02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.405",
+      "lon": "20.61"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "XK03M04",
+    "level": 2,
+    "level_name": {
+      "local": "Komuna",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Suhareke",
+      "en": "Suhareke",
+      "slug": "suhareke-xk03m04"
+    },
+    "code": {
+      "id": "XK03M04",
+      "iso": null
+    },
+    "parent": {
+      "id": "XK03",
+      "level": 1,
+      "name": {
+        "local": "Prizren",
+        "en": "Prizren",
+        "slug": "prizren-xk03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XK03",
+        "level": 1,
+        "name": {
+          "local": "Prizren",
+          "en": "Prizren",
+          "slug": "prizren-xk03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.354",
+      "lon": "20.855"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "XK02M02",
+    "level": 2,
+    "level_name": {
+      "local": "Komuna",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Junik",
+      "en": "Junik",
+      "slug": "junik-xk02m02"
+    },
+    "code": {
+      "id": "XK02M02",
+      "iso": null
+    },
+    "parent": {
+      "id": "XK02",
+      "level": 1,
+      "name": {
+        "local": "Gjakova",
+        "en": "Gjakova",
+        "slug": "gjakova-xk02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XK02",
+        "level": 1,
+        "name": {
+          "local": "Gjakova",
+          "en": "Gjakova",
+          "slug": "gjakova-xk02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.497",
+      "lon": "20.23"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "XK05M02",
+    "level": 2,
+    "level_name": {
+      "local": "Komuna",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Partesh",
+      "en": "Partesh",
+      "slug": "partesh-xk05m02"
+    },
+    "code": {
+      "id": "XK05M02",
+      "iso": null
+    },
+    "parent": {
+      "id": "XK05",
+      "level": 1,
+      "name": {
+        "local": "Gjilan",
+        "en": "Gjilan",
+        "slug": "gjilan-xk05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XK05",
+        "level": 1,
+        "name": {
+          "local": "Gjilan",
+          "en": "Gjilan",
+          "slug": "gjilan-xk05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.409",
+      "lon": "21.504"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "XK05M03",
+    "level": 2,
+    "level_name": {
+      "local": "Komuna",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Viti",
+      "en": "Viti",
+      "slug": "viti-xk05m03"
+    },
+    "code": {
+      "id": "XK05M03",
+      "iso": null
+    },
+    "parent": {
+      "id": "XK05",
+      "level": 1,
+      "name": {
+        "local": "Gjilan",
+        "en": "Gjilan",
+        "slug": "gjilan-xk05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XK05",
+        "level": 1,
+        "name": {
+          "local": "Gjilan",
+          "en": "Gjilan",
+          "slug": "gjilan-xk05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.305",
+      "lon": "21.337"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "XK04M04",
+    "level": 2,
+    "level_name": {
+      "local": "Komuna",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ferizaj",
+      "en": "Ferizaj",
+      "slug": "ferizaj-xk04m04"
+    },
+    "code": {
+      "id": "XK04M04",
+      "iso": null
+    },
+    "parent": {
+      "id": "XK04",
+      "level": 1,
+      "name": {
+        "local": "Ferizaj",
+        "en": "Ferizaj",
+        "slug": "ferizaj-xk04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XK04",
+        "level": 1,
+        "name": {
+          "local": "Ferizaj",
+          "en": "Ferizaj",
+          "slug": "ferizaj-xk04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.371",
+      "lon": "21.148"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "XK04M05",
+    "level": 2,
+    "level_name": {
+      "local": "Komuna",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Shtime",
+      "en": "Shtime",
+      "slug": "shtime-xk04m05"
+    },
+    "code": {
+      "id": "XK04M05",
+      "iso": null
+    },
+    "parent": {
+      "id": "XK04",
+      "level": 1,
+      "name": {
+        "local": "Ferizaj",
+        "en": "Ferizaj",
+        "slug": "ferizaj-xk04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XK04",
+        "level": 1,
+        "name": {
+          "local": "Ferizaj",
+          "en": "Ferizaj",
+          "slug": "ferizaj-xk04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.43",
+      "lon": "21.025"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "XK02M03",
+    "level": 2,
+    "level_name": {
+      "local": "Komuna",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Gjakove",
+      "en": "Gjakove",
+      "slug": "gjakove-xk02m03"
+    },
+    "code": {
+      "id": "XK02M03",
+      "iso": null
+    },
+    "parent": {
+      "id": "XK02",
+      "level": 1,
+      "name": {
+        "local": "Gjakova",
+        "en": "Gjakova",
+        "slug": "gjakova-xk02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XK02",
+        "level": 1,
+        "name": {
+          "local": "Gjakova",
+          "en": "Gjakova",
+          "slug": "gjakova-xk02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.386",
+      "lon": "20.419"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "XK05M04",
+    "level": 2,
+    "level_name": {
+      "local": "Komuna",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Kamenice",
+      "en": "Kamenice",
+      "slug": "kamenice-xk05m04"
+    },
+    "code": {
+      "id": "XK05M04",
+      "iso": null
+    },
+    "parent": {
+      "id": "XK05",
+      "level": 1,
+      "name": {
+        "local": "Gjilan",
+        "en": "Gjilan",
+        "slug": "gjilan-xk05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XK05",
+        "level": 1,
+        "name": {
+          "local": "Gjilan",
+          "en": "Gjilan",
+          "slug": "gjilan-xk05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.489",
+      "lon": "21.573"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "XK02M04",
+    "level": 2,
+    "level_name": {
+      "local": "Komuna",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "DeCan",
+      "en": "DeCan",
+      "slug": "decan-xk02m04"
+    },
+    "code": {
+      "id": "XK02M04",
+      "iso": null
+    },
+    "parent": {
+      "id": "XK02",
+      "level": 1,
+      "name": {
+        "local": "Gjakova",
+        "en": "Gjakova",
+        "slug": "gjakova-xk02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XK02",
+        "level": 1,
+        "name": {
+          "local": "Gjakova",
+          "en": "Gjakova",
+          "slug": "gjakova-xk02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.559",
+      "lon": "20.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "XK03M05",
+    "level": 2,
+    "level_name": {
+      "local": "Komuna",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Malisheve",
+      "en": "Malisheve",
+      "slug": "malisheve-xk03m05"
+    },
+    "code": {
+      "id": "XK03M05",
+      "iso": null
+    },
+    "parent": {
+      "id": "XK03",
+      "level": 1,
+      "name": {
+        "local": "Prizren",
+        "en": "Prizren",
+        "slug": "prizren-xk03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XK03",
+        "level": 1,
+        "name": {
+          "local": "Prizren",
+          "en": "Prizren",
+          "slug": "prizren-xk03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.496",
+      "lon": "20.741"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "XK05M05",
+    "level": 2,
+    "level_name": {
+      "local": "Komuna",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Gjilan",
+      "en": "Gjilan",
+      "slug": "gjilan-xk05m05"
+    },
+    "code": {
+      "id": "XK05M05",
+      "iso": null
+    },
+    "parent": {
+      "id": "XK05",
+      "level": 1,
+      "name": {
+        "local": "Gjilan",
+        "en": "Gjilan",
+        "slug": "gjilan-xk05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XK05",
+        "level": 1,
+        "name": {
+          "local": "Gjilan",
+          "en": "Gjilan",
+          "slug": "gjilan-xk05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.459",
+      "lon": "21.514"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "XK06M01",
+    "level": 2,
+    "level_name": {
+      "local": "Komuna",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "GraCanica",
+      "en": "GraCanica",
+      "slug": "gracanica-xk06m01"
+    },
+    "code": {
+      "id": "XK06M01",
+      "iso": null
+    },
+    "parent": {
+      "id": "XK06",
+      "level": 1,
+      "name": {
+        "local": "Pristina",
+        "en": "Pristina",
+        "slug": "pristina-xk06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XK06",
+        "level": 1,
+        "name": {
+          "local": "Pristina",
+          "en": "Pristina",
+          "slug": "pristina-xk06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.569",
+      "lon": "21.177"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "XK06M02",
+    "level": 2,
+    "level_name": {
+      "local": "Komuna",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Fushe Kosovo",
+      "en": "Fushe Kosovo",
+      "slug": "fushe-kosovo-xk06m02"
+    },
+    "code": {
+      "id": "XK06M02",
+      "iso": null
+    },
+    "parent": {
+      "id": "XK06",
+      "level": 1,
+      "name": {
+        "local": "Pristina",
+        "en": "Pristina",
+        "slug": "pristina-xk06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XK06",
+        "level": 1,
+        "name": {
+          "local": "Pristina",
+          "en": "Pristina",
+          "slug": "pristina-xk06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.619",
+      "lon": "21.034"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "XK01M01",
+    "level": 2,
+    "level_name": {
+      "local": "Komuna",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Kline",
+      "en": "Kline",
+      "slug": "kline-xk01m01"
+    },
+    "code": {
+      "id": "XK01M01",
+      "iso": null
+    },
+    "parent": {
+      "id": "XK01",
+      "level": 1,
+      "name": {
+        "local": "Peja-Pec",
+        "en": "Peja-Pec",
+        "slug": "peja-pec-xk01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XK01",
+        "level": 1,
+        "name": {
+          "local": "Peja-Pec",
+          "en": "Peja-Pec",
+          "slug": "peja-pec-xk01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.611",
+      "lon": "20.598"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "XK05M06",
+    "level": 2,
+    "level_name": {
+      "local": "Komuna",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Novo Berdo",
+      "en": "Novo Berdo",
+      "slug": "novo-berdo-xk05m06"
+    },
+    "code": {
+      "id": "XK05M06",
+      "iso": null
+    },
+    "parent": {
+      "id": "XK05",
+      "level": 1,
+      "name": {
+        "local": "Gjilan",
+        "en": "Gjilan",
+        "slug": "gjilan-xk05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XK05",
+        "level": 1,
+        "name": {
+          "local": "Gjilan",
+          "en": "Gjilan",
+          "slug": "gjilan-xk05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.563",
+      "lon": "21.439"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "XK06M03",
+    "level": 2,
+    "level_name": {
+      "local": "Komuna",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Gllogovc",
+      "en": "Gllogovc",
+      "slug": "gllogovc-xk06m03"
+    },
+    "code": {
+      "id": "XK06M03",
+      "iso": null
+    },
+    "parent": {
+      "id": "XK06",
+      "level": 1,
+      "name": {
+        "local": "Pristina",
+        "en": "Pristina",
+        "slug": "pristina-xk06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XK06",
+        "level": 1,
+        "name": {
+          "local": "Pristina",
+          "en": "Pristina",
+          "slug": "pristina-xk06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.614",
+      "lon": "20.881"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "XK01M02",
+    "level": 2,
+    "level_name": {
+      "local": "Komuna",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Peje",
+      "en": "Peje",
+      "slug": "peje-xk01m02"
+    },
+    "code": {
+      "id": "XK01M02",
+      "iso": null
+    },
+    "parent": {
+      "id": "XK01",
+      "level": 1,
+      "name": {
+        "local": "Peja-Pec",
+        "en": "Peja-Pec",
+        "slug": "peja-pec-xk01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XK01",
+        "level": 1,
+        "name": {
+          "local": "Peja-Pec",
+          "en": "Peja-Pec",
+          "slug": "peja-pec-xk01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.688",
+      "lon": "20.28"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "XK06M04",
+    "level": 2,
+    "level_name": {
+      "local": "Komuna",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Obiliq",
+      "en": "Obiliq",
+      "slug": "obiliq-xk06m04"
+    },
+    "code": {
+      "id": "XK06M04",
+      "iso": null
+    },
+    "parent": {
+      "id": "XK06",
+      "level": 1,
+      "name": {
+        "local": "Pristina",
+        "en": "Pristina",
+        "slug": "pristina-xk06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XK06",
+        "level": 1,
+        "name": {
+          "local": "Pristina",
+          "en": "Pristina",
+          "slug": "pristina-xk06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.693",
+      "lon": "21.073"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "XK07M01",
+    "level": 2,
+    "level_name": {
+      "local": "Komuna",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Skenderaj",
+      "en": "Skenderaj",
+      "slug": "skenderaj-xk07m01"
+    },
+    "code": {
+      "id": "XK07M01",
+      "iso": null
+    },
+    "parent": {
+      "id": "XK07",
+      "level": 1,
+      "name": {
+        "local": "Mitrovica",
+        "en": "Mitrovica",
+        "slug": "mitrovica-xk07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XK07",
+        "level": 1,
+        "name": {
+          "local": "Mitrovica",
+          "en": "Mitrovica",
+          "slug": "mitrovica-xk07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.732",
+      "lon": "20.754"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "XK01M03",
+    "level": 2,
+    "level_name": {
+      "local": "Komuna",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Istog",
+      "en": "Istog",
+      "slug": "istog-xk01m03"
+    },
+    "code": {
+      "id": "XK01M03",
+      "iso": null
+    },
+    "parent": {
+      "id": "XK01",
+      "level": 1,
+      "name": {
+        "local": "Peja-Pec",
+        "en": "Peja-Pec",
+        "slug": "peja-pec-xk01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XK01",
+        "level": 1,
+        "name": {
+          "local": "Peja-Pec",
+          "en": "Peja-Pec",
+          "slug": "peja-pec-xk01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.779",
+      "lon": "20.514"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "XK06M05",
+    "level": 2,
+    "level_name": {
+      "local": "Komuna",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Prishtine",
+      "en": "Prishtine",
+      "slug": "prishtine-xk06m05"
+    },
+    "code": {
+      "id": "XK06M05",
+      "iso": null
+    },
+    "parent": {
+      "id": "XK06",
+      "level": 1,
+      "name": {
+        "local": "Pristina",
+        "en": "Pristina",
+        "slug": "pristina-xk06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XK06",
+        "level": 1,
+        "name": {
+          "local": "Pristina",
+          "en": "Pristina",
+          "slug": "pristina-xk06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.71",
+      "lon": "21.305"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "XK07M02",
+    "level": 2,
+    "level_name": {
+      "local": "Komuna",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Vushtrri",
+      "en": "Vushtrri",
+      "slug": "vushtrri-xk07m02"
+    },
+    "code": {
+      "id": "XK07M02",
+      "iso": null
+    },
+    "parent": {
+      "id": "XK07",
+      "level": 1,
+      "name": {
+        "local": "Mitrovica",
+        "en": "Mitrovica",
+        "slug": "mitrovica-xk07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XK07",
+        "level": 1,
+        "name": {
+          "local": "Mitrovica",
+          "en": "Mitrovica",
+          "slug": "mitrovica-xk07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.797",
+      "lon": "20.991"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "XK07M03",
+    "level": 2,
+    "level_name": {
+      "local": "Komuna",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Zubin Potok",
+      "en": "Zubin Potok",
+      "slug": "zubin-potok-xk07m03"
+    },
+    "code": {
+      "id": "XK07M03",
+      "iso": null
+    },
+    "parent": {
+      "id": "XK07",
+      "level": 1,
+      "name": {
+        "local": "Mitrovica",
+        "en": "Mitrovica",
+        "slug": "mitrovica-xk07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XK07",
+        "level": 1,
+        "name": {
+          "local": "Mitrovica",
+          "en": "Mitrovica",
+          "slug": "mitrovica-xk07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.938",
+      "lon": "20.653"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "XK07M04",
+    "level": 2,
+    "level_name": {
+      "local": "Komuna",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "ZveCan",
+      "en": "ZveCan",
+      "slug": "zvecan-xk07m04"
+    },
+    "code": {
+      "id": "XK07M04",
+      "iso": null
+    },
+    "parent": {
+      "id": "XK07",
+      "level": 1,
+      "name": {
+        "local": "Mitrovica",
+        "en": "Mitrovica",
+        "slug": "mitrovica-xk07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XK07",
+        "level": 1,
+        "name": {
+          "local": "Mitrovica",
+          "en": "Mitrovica",
+          "slug": "mitrovica-xk07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.963",
+      "lon": "20.79"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "XK06M06",
+    "level": 2,
+    "level_name": {
+      "local": "Komuna",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Podujeve",
+      "en": "Podujeve",
+      "slug": "podujeve-xk06m06"
+    },
+    "code": {
+      "id": "XK06M06",
+      "iso": null
+    },
+    "parent": {
+      "id": "XK06",
+      "level": 1,
+      "name": {
+        "local": "Pristina",
+        "en": "Pristina",
+        "slug": "pristina-xk06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XK06",
+        "level": 1,
+        "name": {
+          "local": "Pristina",
+          "en": "Pristina",
+          "slug": "pristina-xk06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.9",
+      "lon": "21.164"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "XK07M05",
+    "level": 2,
+    "level_name": {
+      "local": "Komuna",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Leposaviq",
+      "en": "Leposaviq",
+      "slug": "leposaviq-xk07m05"
+    },
+    "code": {
+      "id": "XK07M05",
+      "iso": null
+    },
+    "parent": {
+      "id": "XK07",
+      "level": 1,
+      "name": {
+        "local": "Mitrovica",
+        "en": "Mitrovica",
+        "slug": "mitrovica-xk07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XK07",
+        "level": 1,
+        "name": {
+          "local": "Mitrovica",
+          "en": "Mitrovica",
+          "slug": "mitrovica-xk07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "43.122",
+      "lon": "20.774"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "XK07M06",
+    "level": 2,
+    "level_name": {
+      "local": "Komuna",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Mitrovice",
+      "en": "Mitrovice",
+      "slug": "mitrovice-xk07m06"
+    },
+    "code": {
+      "id": "XK07M06",
+      "iso": null
+    },
+    "parent": {
+      "id": "XK07",
+      "level": 1,
+      "name": {
+        "local": "Mitrovica",
+        "en": "Mitrovica",
+        "slug": "mitrovica-xk07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XK07",
+        "level": 1,
+        "name": {
+          "local": "Mitrovica",
+          "en": "Mitrovica",
+          "slug": "mitrovica-xk07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.968",
+      "lon": "20.936"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "XK07M07",
+    "level": 2,
+    "level_name": {
+      "local": "Komuna",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Fushe Kosova",
+      "en": "Fushe Kosova",
+      "slug": "fushe-kosova-xk07m07"
+    },
+    "code": {
+      "id": "XK07M07",
+      "iso": null
+    },
+    "parent": {
+      "id": "XK07",
+      "level": 1,
+      "name": {
+        "local": "Mitrovica",
+        "en": "Mitrovica",
+        "slug": "mitrovica-xk07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XK07",
+        "level": 1,
+        "name": {
+          "local": "Mitrovica",
+          "en": "Mitrovica",
+          "slug": "mitrovica-xk07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.892",
+      "lon": "20.834"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "XK06M07",
+    "level": 2,
+    "level_name": {
+      "local": "Komuna",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Lipjan",
+      "en": "Lipjan",
+      "slug": "lipjan-xk06m07"
+    },
+    "code": {
+      "id": "XK06M07",
+      "iso": null
+    },
+    "parent": {
+      "id": "XK06",
+      "level": 1,
+      "name": {
+        "local": "Pristina",
+        "en": "Pristina",
+        "slug": "pristina-xk06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XK06",
+        "level": 1,
+        "name": {
+          "local": "Pristina",
+          "en": "Pristina",
+          "slug": "pristina-xk06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.528",
+      "lon": "21.017"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "XK05M07",
+    "level": 2,
+    "level_name": {
+      "local": "Komuna",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ranillug",
+      "en": "Ranillug",
+      "slug": "ranillug-xk05m07"
+    },
+    "code": {
+      "id": "XK05M07",
+      "iso": null
+    },
+    "parent": {
+      "id": "XK05",
+      "level": 1,
+      "name": {
+        "local": "Gjilan",
+        "en": "Gjilan",
+        "slug": "gjilan-xk05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XK05",
+        "level": 1,
+        "name": {
+          "local": "Gjilan",
+          "en": "Gjilan",
+          "slug": "gjilan-xk05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.491",
+      "lon": "21.624"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

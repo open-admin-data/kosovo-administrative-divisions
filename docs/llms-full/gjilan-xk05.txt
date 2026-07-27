@@ -1,0 +1,44 @@
+# Gjilan — Kosovo Administrative Divisions
+
+> 7 municipalitys
+> Code: XK05
+> Coordinates: 42.499, 21.494
+> Last updated: 2026-07-27. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Gjilan
+
+Code: XK05M05, Coordinates: 42.459, 21.514
+
+
+### Kamenice
+
+Code: XK05M04, Coordinates: 42.489, 21.573
+
+
+### Kllokot
+
+Code: XK05M01, Coordinates: 42.341, 21.387
+
+
+### Novo Berdo
+
+Code: XK05M06, Coordinates: 42.563, 21.439
+
+
+### Partesh
+
+Code: XK05M02, Coordinates: 42.409, 21.504
+
+
+### Ranillug
+
+Code: XK05M07, Coordinates: 42.491, 21.624
+
+
+### Viti
+
+Code: XK05M03, Coordinates: 42.305, 21.337
+
+

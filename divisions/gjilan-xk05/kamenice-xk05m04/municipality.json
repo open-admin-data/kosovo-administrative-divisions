@@ -1,0 +1,45 @@
+{
+  "id": "XK05M04",
+  "level": 2,
+  "level_name": {
+    "local": "Komuna",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Kamenice",
+    "en": "Kamenice",
+    "slug": "kamenice-xk05m04"
+  },
+  "code": {
+    "id": "XK05M04",
+    "iso": null
+  },
+  "parent": {
+    "id": "XK05",
+    "level": 1,
+    "name": {
+      "local": "Gjilan",
+      "en": "Gjilan",
+      "slug": "gjilan-xk05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "XK05",
+      "level": 1,
+      "name": {
+        "local": "Gjilan",
+        "en": "Gjilan",
+        "slug": "gjilan-xk05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "42.489",
+    "lon": "21.573"
+  },
+  "metadata": {},
+  "source": {}
+}

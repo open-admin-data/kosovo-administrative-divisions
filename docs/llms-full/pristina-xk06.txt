@@ -1,0 +1,44 @@
+# Pristina — Kosovo Administrative Divisions
+
+> 7 municipalitys
+> Code: XK06
+> Coordinates: 42.704, 21.231
+> Last updated: 2026-07-27. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Fushe Kosovo
+
+Code: XK06M02, Coordinates: 42.619, 21.034
+
+
+### Gllogovc
+
+Code: XK06M03, Coordinates: 42.614, 20.881
+
+
+### GraCanica
+
+Code: XK06M01, Coordinates: 42.569, 21.177
+
+
+### Lipjan
+
+Code: XK06M07, Coordinates: 42.528, 21.017
+
+
+### Obiliq
+
+Code: XK06M04, Coordinates: 42.693, 21.073
+
+
+### Podujeve
+
+Code: XK06M06, Coordinates: 42.9, 21.164
+
+
+### Prishtine
+
+Code: XK06M05, Coordinates: 42.71, 21.305
+
+

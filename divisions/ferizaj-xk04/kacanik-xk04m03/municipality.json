@@ -1,0 +1,45 @@
+{
+  "id": "XK04M03",
+  "level": 2,
+  "level_name": {
+    "local": "Komuna",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "KaCanik",
+    "en": "KaCanik",
+    "slug": "kacanik-xk04m03"
+  },
+  "code": {
+    "id": "XK04M03",
+    "iso": null
+  },
+  "parent": {
+    "id": "XK04",
+    "level": 1,
+    "name": {
+      "local": "Ferizaj",
+      "en": "Ferizaj",
+      "slug": "ferizaj-xk04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "XK04",
+      "level": 1,
+      "name": {
+        "local": "Ferizaj",
+        "en": "Ferizaj",
+        "slug": "ferizaj-xk04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "42.239",
+    "lon": "21.222"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,317 @@
+[
+  {
+    "id": "XK05M05",
+    "level": 2,
+    "level_name": {
+      "local": "Komuna",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Gjilan",
+      "en": "Gjilan",
+      "slug": "gjilan-xk05m05"
+    },
+    "code": {
+      "id": "XK05M05",
+      "iso": null
+    },
+    "parent": {
+      "id": "XK05",
+      "level": 1,
+      "name": {
+        "local": "Gjilan",
+        "en": "Gjilan",
+        "slug": "gjilan-xk05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XK05",
+        "level": 1,
+        "name": {
+          "local": "Gjilan",
+          "en": "Gjilan",
+          "slug": "gjilan-xk05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.459",
+      "lon": "21.514"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "XK05M04",
+    "level": 2,
+    "level_name": {
+      "local": "Komuna",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Kamenice",
+      "en": "Kamenice",
+      "slug": "kamenice-xk05m04"
+    },
+    "code": {
+      "id": "XK05M04",
+      "iso": null
+    },
+    "parent": {
+      "id": "XK05",
+      "level": 1,
+      "name": {
+        "local": "Gjilan",
+        "en": "Gjilan",
+        "slug": "gjilan-xk05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XK05",
+        "level": 1,
+        "name": {
+          "local": "Gjilan",
+          "en": "Gjilan",
+          "slug": "gjilan-xk05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.489",
+      "lon": "21.573"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "XK05M01",
+    "level": 2,
+    "level_name": {
+      "local": "Komuna",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Kllokot",
+      "en": "Kllokot",
+      "slug": "kllokot-xk05m01"
+    },
+    "code": {
+      "id": "XK05M01",
+      "iso": null
+    },
+    "parent": {
+      "id": "XK05",
+      "level": 1,
+      "name": {
+        "local": "Gjilan",
+        "en": "Gjilan",
+        "slug": "gjilan-xk05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XK05",
+        "level": 1,
+        "name": {
+          "local": "Gjilan",
+          "en": "Gjilan",
+          "slug": "gjilan-xk05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.341",
+      "lon": "21.387"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "XK05M06",
+    "level": 2,
+    "level_name": {
+      "local": "Komuna",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Novo Berdo",
+      "en": "Novo Berdo",
+      "slug": "novo-berdo-xk05m06"
+    },
+    "code": {
+      "id": "XK05M06",
+      "iso": null
+    },
+    "parent": {
+      "id": "XK05",
+      "level": 1,
+      "name": {
+        "local": "Gjilan",
+        "en": "Gjilan",
+        "slug": "gjilan-xk05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XK05",
+        "level": 1,
+        "name": {
+          "local": "Gjilan",
+          "en": "Gjilan",
+          "slug": "gjilan-xk05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.563",
+      "lon": "21.439"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "XK05M02",
+    "level": 2,
+    "level_name": {
+      "local": "Komuna",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Partesh",
+      "en": "Partesh",
+      "slug": "partesh-xk05m02"
+    },
+    "code": {
+      "id": "XK05M02",
+      "iso": null
+    },
+    "parent": {
+      "id": "XK05",
+      "level": 1,
+      "name": {
+        "local": "Gjilan",
+        "en": "Gjilan",
+        "slug": "gjilan-xk05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XK05",
+        "level": 1,
+        "name": {
+          "local": "Gjilan",
+          "en": "Gjilan",
+          "slug": "gjilan-xk05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.409",
+      "lon": "21.504"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "XK05M07",
+    "level": 2,
+    "level_name": {
+      "local": "Komuna",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ranillug",
+      "en": "Ranillug",
+      "slug": "ranillug-xk05m07"
+    },
+    "code": {
+      "id": "XK05M07",
+      "iso": null
+    },
+    "parent": {
+      "id": "XK05",
+      "level": 1,
+      "name": {
+        "local": "Gjilan",
+        "en": "Gjilan",
+        "slug": "gjilan-xk05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XK05",
+        "level": 1,
+        "name": {
+          "local": "Gjilan",
+          "en": "Gjilan",
+          "slug": "gjilan-xk05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.491",
+      "lon": "21.624"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "XK05M03",
+    "level": 2,
+    "level_name": {
+      "local": "Komuna",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Viti",
+      "en": "Viti",
+      "slug": "viti-xk05m03"
+    },
+    "code": {
+      "id": "XK05M03",
+      "iso": null
+    },
+    "parent": {
+      "id": "XK05",
+      "level": 1,
+      "name": {
+        "local": "Gjilan",
+        "en": "Gjilan",
+        "slug": "gjilan-xk05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XK05",
+        "level": 1,
+        "name": {
+          "local": "Gjilan",
+          "en": "Gjilan",
+          "slug": "gjilan-xk05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.305",
+      "lon": "21.337"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,227 @@
+[
+  {
+    "id": "XK04M04",
+    "level": 2,
+    "level_name": {
+      "local": "Komuna",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ferizaj",
+      "en": "Ferizaj",
+      "slug": "ferizaj-xk04m04"
+    },
+    "code": {
+      "id": "XK04M04",
+      "iso": null
+    },
+    "parent": {
+      "id": "XK04",
+      "level": 1,
+      "name": {
+        "local": "Ferizaj",
+        "en": "Ferizaj",
+        "slug": "ferizaj-xk04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XK04",
+        "level": 1,
+        "name": {
+          "local": "Ferizaj",
+          "en": "Ferizaj",
+          "slug": "ferizaj-xk04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.371",
+      "lon": "21.148"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "XK04M01",
+    "level": 2,
+    "level_name": {
+      "local": "Komuna",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Hani I Elezit",
+      "en": "Hani I Elezit",
+      "slug": "hani-i-elezit-xk04m01"
+    },
+    "code": {
+      "id": "XK04M01",
+      "iso": null
+    },
+    "parent": {
+      "id": "XK04",
+      "level": 1,
+      "name": {
+        "local": "Ferizaj",
+        "en": "Ferizaj",
+        "slug": "ferizaj-xk04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XK04",
+        "level": 1,
+        "name": {
+          "local": "Ferizaj",
+          "en": "Ferizaj",
+          "slug": "ferizaj-xk04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.135",
+      "lon": "21.265"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "XK04M03",
+    "level": 2,
+    "level_name": {
+      "local": "Komuna",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "KaCanik",
+      "en": "KaCanik",
+      "slug": "kacanik-xk04m03"
+    },
+    "code": {
+      "id": "XK04M03",
+      "iso": null
+    },
+    "parent": {
+      "id": "XK04",
+      "level": 1,
+      "name": {
+        "local": "Ferizaj",
+        "en": "Ferizaj",
+        "slug": "ferizaj-xk04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XK04",
+        "level": 1,
+        "name": {
+          "local": "Ferizaj",
+          "en": "Ferizaj",
+          "slug": "ferizaj-xk04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.239",
+      "lon": "21.222"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "XK04M02",
+    "level": 2,
+    "level_name": {
+      "local": "Komuna",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Shte Rpce",
+      "en": "Shte Rpce",
+      "slug": "shte-rpce-xk04m02"
+    },
+    "code": {
+      "id": "XK04M02",
+      "iso": null
+    },
+    "parent": {
+      "id": "XK04",
+      "level": 1,
+      "name": {
+        "local": "Ferizaj",
+        "en": "Ferizaj",
+        "slug": "ferizaj-xk04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XK04",
+        "level": 1,
+        "name": {
+          "local": "Ferizaj",
+          "en": "Ferizaj",
+          "slug": "ferizaj-xk04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.228",
+      "lon": "21.022"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "XK04M05",
+    "level": 2,
+    "level_name": {
+      "local": "Komuna",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Shtime",
+      "en": "Shtime",
+      "slug": "shtime-xk04m05"
+    },
+    "code": {
+      "id": "XK04M05",
+      "iso": null
+    },
+    "parent": {
+      "id": "XK04",
+      "level": 1,
+      "name": {
+        "local": "Ferizaj",
+        "en": "Ferizaj",
+        "slug": "ferizaj-xk04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XK04",
+        "level": 1,
+        "name": {
+          "local": "Ferizaj",
+          "en": "Ferizaj",
+          "slug": "ferizaj-xk04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.43",
+      "lon": "21.025"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

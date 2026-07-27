@@ -1,0 +1,137 @@
+[
+  {
+    "id": "XK01M03",
+    "level": 2,
+    "level_name": {
+      "local": "Komuna",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Istog",
+      "en": "Istog",
+      "slug": "istog-xk01m03"
+    },
+    "code": {
+      "id": "XK01M03",
+      "iso": null
+    },
+    "parent": {
+      "id": "XK01",
+      "level": 1,
+      "name": {
+        "local": "Peja-Pec",
+        "en": "Peja-Pec",
+        "slug": "peja-pec-xk01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XK01",
+        "level": 1,
+        "name": {
+          "local": "Peja-Pec",
+          "en": "Peja-Pec",
+          "slug": "peja-pec-xk01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.779",
+      "lon": "20.514"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "XK01M01",
+    "level": 2,
+    "level_name": {
+      "local": "Komuna",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Kline",
+      "en": "Kline",
+      "slug": "kline-xk01m01"
+    },
+    "code": {
+      "id": "XK01M01",
+      "iso": null
+    },
+    "parent": {
+      "id": "XK01",
+      "level": 1,
+      "name": {
+        "local": "Peja-Pec",
+        "en": "Peja-Pec",
+        "slug": "peja-pec-xk01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XK01",
+        "level": 1,
+        "name": {
+          "local": "Peja-Pec",
+          "en": "Peja-Pec",
+          "slug": "peja-pec-xk01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.611",
+      "lon": "20.598"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "XK01M02",
+    "level": 2,
+    "level_name": {
+      "local": "Komuna",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Peje",
+      "en": "Peje",
+      "slug": "peje-xk01m02"
+    },
+    "code": {
+      "id": "XK01M02",
+      "iso": null
+    },
+    "parent": {
+      "id": "XK01",
+      "level": 1,
+      "name": {
+        "local": "Peja-Pec",
+        "en": "Peja-Pec",
+        "slug": "peja-pec-xk01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XK01",
+        "level": 1,
+        "name": {
+          "local": "Peja-Pec",
+          "en": "Peja-Pec",
+          "slug": "peja-pec-xk01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.688",
+      "lon": "20.28"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

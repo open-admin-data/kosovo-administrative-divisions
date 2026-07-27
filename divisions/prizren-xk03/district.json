@@ -1,0 +1,33 @@
+{
+  "id": "XK03",
+  "level": 1,
+  "level_name": {
+    "local": "Distrikti",
+    "en": "District"
+  },
+  "name": {
+    "local": "Prizren",
+    "en": "Prizren",
+    "slug": "prizren-xk03"
+  },
+  "code": {
+    "id": "XK03",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "42.18",
+    "lon": "20.7"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/xk/districts/prizren-xk03/",
+    "api": "https://openadmindata.org/api/xk/"
+  }
+}

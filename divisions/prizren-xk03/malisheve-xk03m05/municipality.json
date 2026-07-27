@@ -1,0 +1,45 @@
+{
+  "id": "XK03M05",
+  "level": 2,
+  "level_name": {
+    "local": "Komuna",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Malisheve",
+    "en": "Malisheve",
+    "slug": "malisheve-xk03m05"
+  },
+  "code": {
+    "id": "XK03M05",
+    "iso": null
+  },
+  "parent": {
+    "id": "XK03",
+    "level": 1,
+    "name": {
+      "local": "Prizren",
+      "en": "Prizren",
+      "slug": "prizren-xk03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "XK03",
+      "level": 1,
+      "name": {
+        "local": "Prizren",
+        "en": "Prizren",
+        "slug": "prizren-xk03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "42.496",
+    "lon": "20.741"
+  },
+  "metadata": {},
+  "source": {}
+}
