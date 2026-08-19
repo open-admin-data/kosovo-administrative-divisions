@@ -11,9 +11,10 @@
 | Coordinates | ✅ Included (all levels) |
 | Formats | JSON, NDJSON, CSV |
 | License | CC-BY-4.0 |
-| Last Updated | 2026-07-27 |
+| Last Updated | 2026-08-19 |
 | Website | [openadmindata.org/xk](https://openadmindata.org/xk/) |
 | API | [openadmindata.org/api/xk](https://openadmindata.org/api/xk/) |
+| National Anthem | [🎵 Listen & Download Kosovo National Anthem MP3](https://onlygames.me/national-anthems/xk/) |
 
 ## Browse by District
 
